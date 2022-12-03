@@ -1,0 +1,2 @@
+# Template
+A repository template.
